@@ -5,4 +5,4 @@ based on machine learning techniques and utilized these features to check if a t
 # Objective:
 The objective is to construct a model to predict which transactions could be fraudulent with high accuracy.
 # Plan:
-I will be creating a predictive model that predicts if an insurance claim is fraudulent or not. The answere between YES/NO, is a Binary Classification task. This report deals with classification algorithm random forest model to detect fraud transaction in Python.
+I have been created a predictive model that predicts if an insurance claim is fraudulent or not. The answer between YES/NO, is a Binary Classification task. This report deals with classification algorithm random forest model to detect fraud transaction in Python.
